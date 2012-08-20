@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ZiggySwiftActivity!</string>
+    <string name="app_name">ZiggySwift</string>
+    <string name="title">Ziggy Swift Emulator</string>
+    <string name="copy">(c) 2011 morgajel.com</string>
+    <string name="version">v 1.0</string>
+    
+    <string name="menu_facts">Ziggy\'s Facts</string>
+    <string name="menu_wwzd">What Would Ziggy Do?</string>
+    <string name="menu_brawl">Brawl!</string>
+	<string name="menu_cueball">Magic Cueball</string>
+	<string-array name="menu">
+		<item name="facts">Ziggy\'s Facts</item>
+    	<item name="wwzd">What Would Ziggy Do?</item>
+    	<item name="brawl">Brawl!</item>
+		<item name="cueball">Magic Cueball</item>
+    </string-array>
+         
+        
+
+        
+        
+</resources>

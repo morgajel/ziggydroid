@@ -1,0 +1,27 @@
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="wrap_content" android:id="@+id/frameLayout1" android:layout_width="fill_parent" android:layout_gravity="center">
+        <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" 
+        android:layout_height="fill_parent" android:orientation="vertical" 
+        android:layout_gravity="center">
+	        <RelativeLayout
+				android:id="@+id/facelayout"
+				android:layout_width="fill_parent" android:gravity="center"
+				android:layout_height="fill_parent" android:layout_gravity="center"
+				xmlns:android="http://schemas.android.com/apk/res/android">
+        
+			<ImageView  
+	        android:id="@+id/splashface"
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content" 
+	        android:layout_gravity="center"/>
+      		
+
+			</RelativeLayout>
+
+
+            <TextView android:id="@+id/textTitle" android:text="@string/title"  
+            android:layout_height="wrap_content" android:layout_gravity="center"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="wrap_content" android:padding="30dp"/>
+        </LinearLayout>
+        
+    </FrameLayout>

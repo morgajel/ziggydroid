@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="greetingstrings">
+        <item>Hi.</item>
+        <item>Sup.</item>
+        <item>Sup!</item>
+        <item>Sup, whatcha up to?</item>
+        <item>So, what\'s going on today?</item>
+        <item>Hello, how\'s your bum, er I mean mum?</item>
+        <item>Hey, how\'s it going?</item>
+        <item>I molested your keyboard...er, I mean how\'s it goin?</item>
+        <item>Bacongo, are your chickens dancing finely this day?</item>
+        <item>Greetings captain.</item>
+        <item>*sniff* *sniff* Do you smell that? Somebody smells funny.</item>
+        <item>*sniff* *sniff* I dropped my keys in the toilet:( </item>
+        <item>Hey, could you scrub my back for me, everyone else is freaked out I\'m sitting here naked in a tub of water.</item>
+        <item>Why does everyone quiet down when you come into the room?</item>
+        <item>psst, someone is trying to kill you. just an FYI.</item>
+        <item>*yawn*</item>
+        <item>biscuits and gravy, it\'s you!</item>
+        <item>hey, someone was looking for you.</item>
+        <item>Oh, you finally showed up- now we can start.</item>
+        <item>-and that\'s how I found out who the second shooter was.</item>
+        <item>-and that\'s how I found Hoffa.</item>
+        <item>Now do you believe me?</item>
+        <item>Yeah, do it. They won\'t mind.</item>
+        <item>We missed you.</item>
+        <item>I missed you- I was running out of legs to hump.</item>
+</string-array>
+</resources>
